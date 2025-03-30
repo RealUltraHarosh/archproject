@@ -100,7 +100,7 @@ nav ul button{
     color:#645C55;
 }
 .build img{
-    width:1255px;
+    width:1252px;
 }
 .Whatwedo{
     display:flex;
@@ -157,4 +157,7 @@ nav ul button{
 }
 .head{
     font-size:18px;
+}
+.marblestaircase img{
+    width:1252px;
 }
