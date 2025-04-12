@@ -1,5 +1,5 @@
 *{
-    font-family: 'Poppins', 'sans-serif';
+    font-family: 'Poppins' 'sans-serif';
 }
 nav{
     display:flex;
@@ -159,5 +159,88 @@ nav ul button{
     font-size:18px;
 }
 .marblestaircase img{
+    margin-top:150px;
     width:1252px;
+}
+.prior{
+    background-color:#403E3B;
+    margin-top:100px;
+    height:300px;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.white-text{
+    display:flex;
+    flex-direction:column;
+    margin:0;
+    color:white;
+    width:50%;
+}
+.company{
+    display:flex;
+    justify-content:flex-end;
+    width:25%;
+    
+}
+.container4{
+    margin-top:150px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+.container4-text{
+    margin-right:450px;
+}
+.container4 .container4-text h2{
+    font-size:39px;
+}
+.container4 .container4-text p{
+    color:#645C55;
+    font-size:24px;
+}
+
+#linke{
+    padding-top:50px;
+}
+.container5{
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+    margin-left:100px;
+    margin-right:100px;
+}
+.team{
+    display:flex;
+    flex-direction:column;
+}
+.container5 .team p{
+    color:#645C55;
+    font-size:17px;
+}
+.container5 .team h2{
+    font-size:32px;
+}
+.people{
+    display:flex;
+    justify-content:space-evenly;
+    gap:119px;
+    padding-left:50px;
+}
+.touch{
+    margin-top:100px;
+    background-color:#CEC4BC;
+    height:250px;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
+.textt{
+    display:flex;
+    flex-direction:column;
+    margin:0;
+}
+.textt p{
+    font-size:35px;
 }
